@@ -34,7 +34,7 @@ Input Resume → AI Analysis → Format Output → WhatsApp Message
 
 ## 📸 Workflow Screenshot
 
-![Workflow](Screenshot 2026-04-25 010424.png)
+![Workflow](workflow.PNG)
 
 ---
 
